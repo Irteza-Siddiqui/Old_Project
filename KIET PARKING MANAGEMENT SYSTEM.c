@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 #include<conio.h>
+#include<math.h>
 #include <stdlib.h>
 int noc=0,cash=0,gari=0,nob=0,nos=0,ch,l,q[3][10],m,z=0,k=0,j=0,c,f,po,carrs=0,busrs=0,scooterrs=0,info,u;
 char s[3][50][10];
